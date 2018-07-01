@@ -1,0 +1,9 @@
+set number
+set whichwrap+=<,>,h,l,[,]
+set nowrap
+set wildmenu
+colorscheme delek
+set shiftwidth=0
+set expandtab
+set softtabstop=2
+set tabstop=2
