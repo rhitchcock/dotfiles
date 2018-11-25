@@ -1,6 +1,6 @@
 set nocompatible
 set number relativenumber
-set whichwrap+=<,>,h,l
+set whichwrap+=<,>,h,l,[,]
 set nowrap
 set wildmenu
 colorscheme delek
@@ -19,7 +19,7 @@ set foldenable
 set foldlevelstart=99
 set foldnestmax=20
 set foldmethod=indent
-set foldcolumn=1
+set foldcolumn=0
 set scrolloff=5
 set sidescrolloff=5
 set ruler
@@ -43,4 +43,4 @@ set noautowrite
 set report=0
 set completeopt=menu,preview,noinsert,noselect
 set shiftround
-
+set nofoldenable
