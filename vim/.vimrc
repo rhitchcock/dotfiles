@@ -6,7 +6,7 @@ set wildmenu
 colorscheme delek
 syntax enable
 set showmatch
-set autoindent smartindent
+set autoindent
 set expandtab
 set shiftwidth=0
 set softtabstop=2
