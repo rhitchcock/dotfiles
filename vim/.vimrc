@@ -44,3 +44,4 @@ set report=0
 set completeopt=menu,preview,noinsert,noselect
 set shiftround
 set nofoldenable
+set ttymouse=xterm2
