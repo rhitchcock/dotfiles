@@ -16,10 +16,11 @@ set hlsearch
 set ignorecase
 set showcmd
 set foldenable
-set foldlevelstart=99
+set foldlevel=99
+set foldlevelstart=0
 set foldnestmax=20
 set foldmethod=indent
-set foldcolumn=0
+set foldcolumn=1
 set scrolloff=5
 set sidescrolloff=5
 set ruler
@@ -43,5 +44,5 @@ set noautowrite
 set report=0
 set completeopt=menu,preview,noinsert,noselect
 set shiftround
-set nofoldenable
+" set nofoldenable
 set ttymouse=xterm2
